@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+* {
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f4f4f4;
+	color: #0C120C;
+	text-align: center;
+	font-family: 'Montserrat';
+	width: 80%;
+	margin: auto;
+
+	
+}
+
+.menu{
+	border: 3px solid #0C120C;
+	padding: 5px;
+
+}
+a{
+	color: #0C120C;
+	font-size: 20px;
+	margin: 5px;
+	border-radius: 2px;
+}
+a:hover{
+	text-decoration: underline;
+	background-color: #BAFF29;
+  	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.box1{
+	background-color: #6D7275;
+	padding: 4px;
+}
+.box2{
+	background-color: #C7D6D5;
+}
+.box3{
+	background-color: #6D7275;
+}
+.box4{
+	background-color: #C7D6D5;
+}
+.box5{
+	background-color: #6D7275;
+}
+.lab{
+	padding: 20px;
+	text-align: left;
+}
+.arduino{
+	padding: 20px;
+	text-align: center;
+
+}
+.home{
+	background-color: inherit;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 450px;
+	float: right;
+	text-align: left;
+}
+.profile{
+	background-color: inherit;
+	width: 550px;
+		padding-top: 50px;
+	padding-bottom: 50px;
+}
