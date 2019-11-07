@@ -36,6 +36,9 @@ a:hover{
 	background-color: #6D7275;
 	padding: 4px;
 }
+.box1 p{
+	text-align: left;
+}
 .box2{
 	background-color: #C7D6D5;
 }
