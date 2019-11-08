@@ -80,3 +80,6 @@ a:hover{
 		padding-top: 50px;
 	padding-bottom: 50px;
 }
+.tekening{
+	transform: rotate(270deg);
+}
